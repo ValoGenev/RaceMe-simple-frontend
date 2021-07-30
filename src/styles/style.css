@@ -1,0 +1,14 @@
+#root {
+    /* display: block;
+    display: flex;
+    justify-content: center;
+    text-align: center; */
+    
+}
+
+#mapid {
+    display: inline-block;
+    height: 600px;
+    width: 600px;
+}
+
